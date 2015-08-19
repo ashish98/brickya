@@ -1,0 +1,16 @@
+#Greenfoot properties
+#Wed Aug 19 16:08:05 IST 2015
+class.Yellow1.superclass=Bricks
+class.Yellow1.image=lores_yellowbrick.png
+class.Red1.image=lores_redbrick.png
+class.Red1.superclass=Bricks
+project.charset=UTF-8
+version=2.7.1
+class.Ball.image=ball.png
+class.Ball.superclass=greenfoot.Actor
+class.Platform.image=paddle1.jpeg
+class.Bricks.superclass=greenfoot.Actor
+world.lastInstantiated=Level_1
+class.Level_1.superclass=greenfoot.World
+class.Level_1.image=black.png
+class.Platform.superclass=greenfoot.Actor
