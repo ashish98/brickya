@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Level_1.\n\ \n
+comment1.params=
+comment1.target=Level_1()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=initX\ initY\ increment\ noOfBricks
+comment3.target=void\ layoutYellow1(int,\ int,\ int,\ int)
+comment4.params=initX\ initY\ increment\ noOfBricks
+comment4.target=void\ layoutRed1(int,\ int,\ int,\ int)
+numComments=5
